@@ -5,7 +5,7 @@ FPS="30"
 QUAL="veryfast"
 RTMP_URL="rtmps"
 RTMP_KEY="rtmp key"
-VIDEO_SOURCE="video.mp4"
+VIDEO_SOURCE="8888.gif"
 AUDIO_SOURCE="musik.mp3"
 AUDIO_ENCODER="aac"
 
