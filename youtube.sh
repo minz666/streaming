@@ -7,7 +7,7 @@ QUAL="superfast"
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"
 KEY="wu1t-4vu7-yp1t-24ha"
 
-VIDEO_SOURCE="video.mp4"
+VIDEO_SOURCE="8888.gif"
 AUDIO_SOURCE="musik.mp3"
 
 ffmpeg \
